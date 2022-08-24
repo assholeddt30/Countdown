@@ -6,7 +6,7 @@
     font-family: 'Nunito Sans', sans-serif;
 }
 body{
-    background: #000 url(pic/bg2.jpeg);
+    background: #000 url(pic/bg1.jpeg);
     background-attachment: fixed;
 }
 .container{
@@ -15,7 +15,7 @@ body{
     left: 100px;
     right: 100px;
     bottom: 80px;
-    background: url(pic/bg2.jpeg);
+    background: url(pic/bg1.jpeg);
     background-attachment: fixed;
     display: flex;
     justify-content: center;
